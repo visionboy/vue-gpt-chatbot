@@ -1,9 +1,3 @@
 # GPT Prompt Trainer
 
-## Manual
-
-![manual](demo/manual.png)
-
-## Auto
-
-![auto](demo/auto.png)
+원글주소: https://github.com/memochou1993/gpt-prompt-trainer
